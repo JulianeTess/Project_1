@@ -1,3 +1,3 @@
-# Data-Science-Portfolio
+# Project-1
 
-This is a compilation of projects from my study with Entity Academy online. I have added work from R, Python, SQL, NoSQL, and Tableau.
+This is my first self chosen project.
